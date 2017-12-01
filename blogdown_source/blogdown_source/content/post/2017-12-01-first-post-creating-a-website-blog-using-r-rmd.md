@@ -1,5 +1,5 @@
 ---
-title: First Post - Creating a Website/Blog Using R.Rmd
+title: First Post - Creating a Website/Blog Using R
 thumbnailImagePosition: left
 thumbnailImage: https://www.hurtigruten.com/globalassets/photos/ports/alesund/2500x1250_aalesund_by_rudy-balasko-shutterstock.jpg?width=1600&height=800&transform=DownFill
 coverImage: https://www.hurtigruten.com/globalassets/photos/ports/alesund/2500x1250_aalesund_by_rudy-balasko-shutterstock.jpg?width=1600&height=800&transform=DownFill
@@ -33,8 +33,8 @@ build_site()
 new_post("First Post - Creating a Website/Blog Using R.Rmd")
 ```
 
-After running the new_site() command, I did took a few minutes to edit the config.toml file, and then overwrote the stock background photo. The photo I used is actually a blurred photo of Ålesund, Norway. I chose the photo because I visited Ålesund in the summer of 2014 and it was one of the most beautiful places I have ever experienced first-hand. Go check it out if you're ever in Norway.
+After running the new_site() command, it took a few minutes to edit the config.toml file, and then I basically cleaned up the stock directories and overwrote the stock background photo. The photo I decided to use is actually a blurred photo of Ålesund, Norway (original image above). I chose the photo because I visited Ålesund in the summer of 2014 and it was one of the most beautiful places I have ever experienced first-hand. Go check it out if you're ever in Norway.
 
 I plan to make a few posts over the coming weeks to fill the void here. I have plenty of projects to tweak and write up, so the blog won't be blank for long, hopefully.
 
-Thanks for visiting the new blog.
+Thanks for visiting.
